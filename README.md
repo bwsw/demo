@@ -15,7 +15,7 @@ and [backend](https://github.com/o360/backend) according to their documentation
 
 ## Requirements
 - **Docker** installed from the official Docker [website](https://docs.docker.com/install/linux/docker-ce/ubuntu/).
-- **Docker compose** installed from the official Docker [website](https://docs.docker.com/compose/install/).
+- **Docker Compose** installed from the official Docker [website](https://docs.docker.com/compose/install/).
 
 ## Environment preparation
 
